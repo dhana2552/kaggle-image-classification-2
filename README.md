@@ -1,6 +1,6 @@
 # kaggle-image-classification-2
 
-**The aim is the predict the labels for the #D apparel images in the test dataset.**
+**The aim is the predict the labels for the apparel images in the test dataset.**
 
 <br>Below are the step by step approaches done on the dataset for prediction: 
 * Created a sample folder with 3 subfolders (train/test/val) and placed all training images inside respective labels 

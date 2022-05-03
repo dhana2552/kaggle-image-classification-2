@@ -9,3 +9,5 @@
 * Used ImageDatagGenerator to preprocess and use the images from respective directories 
 * Trained the model in GPU 
 * Predicted the test images
+
+The notebook is available in [kaggle](https://www.kaggle.com/code/dhanalakshmic/image-classification-nb) 
